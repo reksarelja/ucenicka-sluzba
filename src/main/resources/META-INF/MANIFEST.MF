@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Main-Class: com.example.ucenicka_sluzba.Launcher
+Class-Path: javafx-graphics-17.0.1.jar javafx-base-17.0.1.jar javafx-bas
+ e-17.0.1-win.jar javafx-controls-17.0.1.jar javafx-graphics-17.0.1-win.
+ jar sqlite-jdbc-3.41.2.1.jar javafx-fxml-17.0.1.jar javafx-fxml-17.0.1-
+ win.jar javafx-controls-17.0.1-win.jar
+
