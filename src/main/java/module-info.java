@@ -3,8 +3,7 @@ module com.example.ucenicka_sluzba {
     requires javafx.fxml;
     requires java.sql;
     requires java.desktop;
-
-
-    opens com.example.ucenicka_sluzba to javafx.fxml;
+    requires javafx.swing;
     exports com.example.ucenicka_sluzba;
+    opens com.example.ucenicka_sluzba to javafx.fxml;
 }
